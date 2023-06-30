@@ -1,2 +1,2 @@
 # SpaceSHMUP
-One of the projects I completed for my 3D Game Dev Class
+One of the projects I completed for my 3D Game Dev Class. We worked on this project for about 5 weeks (roughly 1 month). It was created using Visual Studio 2022 Community Edition and Unity Hub. It also utilizes the coding language of C#. It is meant to have aspects to that of Galaga, Galaxian, and Ikaruga. We also used this textbook for aspects of the code and assets. If you are curious about the various prefabs & assets that I have used in my project be sure to check out the License.txt for all of that information. Unfortunately due to copyright & things of that nature, I am unsure if I am able to upload the prefabs that I have created from these assets directly onto this repo.
