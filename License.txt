@@ -1,0 +1,3 @@
+Materials, PowerUps, Models, Prefabs, & Textures
+All of these assets can be downloaded in the unity package found at:
+https://book.prototools.net/chapter-31-space-shmup-p1-3e/
